@@ -22,12 +22,13 @@
 - 🎨 [**User Story Map + MVP (Miro)**](https://miro.com/app/board/uXjVH7e7QSY=/?share_link_id=305358403762)
 - 🖥 [**Прототипы UI (Figma)**](https://www.figma.com/design/ad8Ywzy4CX8VE20Jzwk03n)
 
-### Локальные файлы
+### Файлы в репозитории
 
 - [`Vita-DFD.drawio`](Vita-DFD.drawio) — исходник модели потоков данных (открывается на [draw.io](https://app.diagrams.net))
-- [`preview/Vita-DFD.png`](preview/Vita-DFD.png) — превью DFD
-- [`preview/Vita-User-Story-Map.png`](preview/Vita-User-Story-Map.png) — превью карты историй
-- [`preview/Vita-Prototypes.png`](preview/Vita-Prototypes.png) — превью прототипов
+- [`Vita-DFD-context.png`](Vita-DFD-context.png) — контекстная DFD
+- [`Vita-DFD-level1.png`](Vita-DFD-level1.png) — декомпозиция первого уровня
+- [`Vita-User-Story-Map.jpg`](Vita-User-Story-Map.jpg) — превью карты пользовательских историй
+- [`Vita-Prototypes.png`](Vita-Prototypes.png) — превью прототипов UI
 
 ## Ключевые сущности предметной области
 
